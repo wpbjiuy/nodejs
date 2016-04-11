@@ -1,0 +1,19 @@
+{
+	"author": "王平波",
+	"name":"censorify",
+	"version":"0.0.1",
+	"description":"Censors words out of text",
+	"main":"consortext",
+	"repository":{
+		"type":"git",
+		"url":"http://github.com/bwdayley/nodebook/tree/master/ch03/censorify"
+	},
+	"keywords":[
+		"censor",
+		"words"
+	],
+	"dependencies":{},
+	"engines":{
+		"node":"*"
+	}
+}
